@@ -19,3 +19,7 @@
 |[aaadc580be50b435cce383d3c1eb877d](https://www.virustotal.com/gui/file/aaadc580be50b435cce383d3c1eb877d)|TXT||2023-07-11 13:53:40|file001.url.txt|
 |[13fc094ee7d01ca87cfb1df841a03b47](https://www.virustotal.com/gui/file/13fc094ee7d01ca87cfb1df841a03b47)|CHM||2023-07-03 08:48:32|2222.chm|
 |[cf060e0552bef1e78ca2fa5d07e16672](https://www.virustotal.com/gui/file/cf060e0552bef1e78ca2fa5d07e16672)|XML||2023-07-03 08:43:54|document.xml.rels|
+|[456de23989d673c690c845d12acdb0cc](https://www.virustotal.com/gui/file/456de23989d673c690c845d12acdb0cc)|Win32 DLL||2025-06-26 08:46:22|C:\Windows\lchxmlccav.exe|
+|[05912acb2974bd2acf03251a2f98e64a](https://www.virustotal.com/gui/file/05912acb2974bd2acf03251a2f98e64a)|Win32 DLL|Zbot|2025-06-22 20:27:40|TeamViewer|
+|[3b42806b70a3296d5c4222fe9177a035](https://www.virustotal.com/gui/file/3b42806b70a3296d5c4222fe9177a035)|Win32 EXE||2025-04-15 15:45:51|C:\Users\user\Desktop\dd.exe|
+|[ab34ac29329eada3be42b76cb483bc29](https://www.virustotal.com/gui/file/ab34ac29329eada3be42b76cb483bc29)|Win32 EXE||2025-04-15 11:22:02|4055e3a45d63778dfc5775ae6e512fb3991df1dadf91630a26ed5747e350f75f.exe|

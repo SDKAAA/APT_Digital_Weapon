@@ -82,3 +82,20 @@
 |[74f6bd1a80ebfeece1e65b441c2f46e2](https://www.virustotal.com/gui/file/74f6bd1a80ebfeece1e65b441c2f46e2)|Android|androidos|2022-11-16 18:41:56|delta_1.0.0.apk|
 |[cbad5b2ca73917006791882274f769e8](https://www.virustotal.com/gui/file/cbad5b2ca73917006791882274f769e8)|TXT||2016-08-15 10:32:06|D:\programas instalables\activar escritorio remoto y multisesion\activar escritorio remoto multisesion windows 7\RDPWrap-v1.6.1\install.bat|
 |[29ca1c35075247b035af75c11cab78f1](https://www.virustotal.com/gui/file/29ca1c35075247b035af75c11cab78f1)|TXT||2015-08-18 17:03:00|/home/farm/anteroom/353/f2d/353f2dc17a4e80564caa175f7170dbedc1b40f704444520ae671f78a5d1f2b6d|
+|[6801f6281d4d8279d05c28ed78738f44](https://www.virustotal.com/gui/file/6801f6281d4d8279d05c28ed78738f44)|Win64 EXE|Stealer|2025-06-19 11:04:06|C:\Users\admin\Documents\malware\4e61215d2f5323942ef2cf737d6cb7c2755820796325ceef4e4b5d7e7aef2208.exe|
+|[b6b1a8d3ab2952196d9688a734e8f01b](https://www.virustotal.com/gui/file/b6b1a8d3ab2952196d9688a734e8f01b)|DOCX||2025-06-19 10:55:57| |
+|[248a01ac652a95704821e70891e3f688](https://www.virustotal.com/gui/file/248a01ac652a95704821e70891e3f688)|DOCX||2025-06-17 08:35:58|Адміністративні штрафи співробiтників організації №20250612-371946.xlsm|
+|[3a69f318d09e820d379828105ce8b220](https://www.virustotal.com/gui/file/3a69f318d09e820d379828105ce8b220)|Win64 EXE|Stealer|2025-06-17 08:00:45|rl_b9d508d12d2b758091fb596fa8b8b4a1c638b7b8c11e08a1058d49673f93147d|
+|[9c03d0da190d1046583ba9fa83a8bcd3](https://www.virustotal.com/gui/file/9c03d0da190d1046583ba9fa83a8bcd3)|Win64 EXE|Zbot|2025-06-03 14:03:17|/home/petik/ss/malware/2025-07-02_9c03d0da190d1046583ba9fa83a8bcd3_black-basta_cobalt-strike_luca-stealer_satacom_vidar|
+|[0a2c0e4c250133c82124c3631b5bdd48](https://www.virustotal.com/gui/file/0a2c0e4c250133c82124c3631b5bdd48)|DOCX||2025-04-10 12:02:25| |
+|[95e62b9e0f048a839c11a1b416b5fba4](https://www.virustotal.com/gui/file/95e62b9e0f048a839c11a1b416b5fba4)|DOCX||2025-04-09 07:22:25|399c0881230f6309f1fead5dae33021a40ae2a4c37edac1c24c9b4e1a0e630f9.xlsm|
+|[b63b783a9aca15726babd599d2963869](https://www.virustotal.com/gui/file/b63b783a9aca15726babd599d2963869)|Win64 EXE|Zbot|2025-04-09 00:05:40|C:\ProgramData\Microsoft ServiceHub\ServiceHub|
+|[671b42e854ae2ee3341456fbec7c7787](https://www.virustotal.com/gui/file/671b42e854ae2ee3341456fbec7c7787)|TXT||2025-04-08 06:32:04|92183f89b115881535b1bf1985f3ee4b4ebf077bec8cc4de0c6c6e266da0cb87.ps1|
+|[810a4dd4c0c9d0949698d1d7f0c7f925](https://www.virustotal.com/gui/file/810a4dd4c0c9d0949698d1d7f0c7f925)|DOCX|AlienBot|2025-04-08 06:19:00|Список оповіщених військовозобов’язаних організації - copy1.xlsm|
+|[9f6c82c240ba5ef6bb85d28c0cdf7f7f](https://www.virustotal.com/gui/file/9f6c82c240ba5ef6bb85d28c0cdf7f7f)|DOCX||2025-04-03 11:16:49| |
+|[037e2ca3c97e1a5645cdc45fb0d98064](https://www.virustotal.com/gui/file/037e2ca3c97e1a5645cdc45fb0d98064)|Win64 EXE|Zbot|2025-04-02 18:41:12|c:\programdata\microsoft runtime\runtime|
+|[3394fc2ba0a976818691751aa7f86d05](https://www.virustotal.com/gui/file/3394fc2ba0a976818691751aa7f86d05)|DOCX||2025-04-02 13:00:20|Акцiя Defender ARMY (2).xlsm|
+|[333b09f8865aae5d257b6f11f2fe5d08](https://www.virustotal.com/gui/file/333b09f8865aae5d257b6f11f2fe5d08)|DOCX||2025-03-27 08:02:07|a02506468e632875a2c9c9c16e730b8bdc52f7450b28ee7bd8f5ac014b264e53.xlsm|
+|[0a178f76c48c038e8bad03a62b52cfc9](https://www.virustotal.com/gui/file/0a178f76c48c038e8bad03a62b52cfc9)|Win32 EXE||2025-03-26 18:44:02|Windows Telemetry.exe|
+|[8b694068e5088e0c32739956e28b077e](https://www.virustotal.com/gui/file/8b694068e5088e0c32739956e28b077e)|Win64 EXE||2025-03-26 18:23:45|/tmp/cache/extracted_files/d30d53607356fd6e57abf965be64327eaa33c9f2.bin|
+|[100cd9d907e986ba8d5fc6d0488557d9](https://www.virustotal.com/gui/file/100cd9d907e986ba8d5fc6d0488557d9)|DOCX||2025-03-26 08:15:20|58b38775f655498b134ce8cd52ab0aba05b710f7611e41cbdffdc3597c5d5f3d.xlsx|

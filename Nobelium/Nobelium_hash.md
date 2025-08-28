@@ -19,3 +19,6 @@
 |[3c131914b81e75ad9e8c19fd84982c9e](https://www.virustotal.com/gui/file/3c131914b81e75ad9e8c19fd84982c9e)|GZIP||2020-12-15 13:48:18|019085a76ba7126fff22770d71bd901c325fc68ac55aa743327984e89f4b0134.bin.sample.gz|
 |[f759a9dc4c563fd56e9f543c985525fe](https://www.virustotal.com/gui/file/f759a9dc4c563fd56e9f543c985525fe)|Win32 EXE|WellMess|2020-09-08 12:42:08|/Volumes/Samsung_X5/malware/2020/VirusShare_f759a9dc4c563fd56e9f543c985525fe|
 |[124c65fe64606b834b1b1e8773612acb](https://www.virustotal.com/gui/file/124c65fe64606b834b1b1e8773612acb)|Win32 EXE||2020-04-24 10:29:54|VbRev.exe|
+|[3fd94f1240ae375bb0e06a1e8e631f48](https://www.virustotal.com/gui/file/3fd94f1240ae375bb0e06a1e8e631f48)|Win32 EXE||2025-01-25 05:31:20| |
+|[2d98445783055f16fa6c4a8975fa859a](https://www.virustotal.com/gui/file/2d98445783055f16fa6c4a8975fa859a)|Win32 EXE|CobaltStrike|2025-01-13 17:37:27|1488644583.winpe|
+|[1292305896dbe6069ace8d1e2b9aa98e](https://www.virustotal.com/gui/file/1292305896dbe6069ace8d1e2b9aa98e)|ELF executable|BLD3|2024-12-18 16:54:59|mal|

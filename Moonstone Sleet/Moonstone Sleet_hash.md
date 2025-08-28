@@ -8,3 +8,4 @@
 |[608fb305734364e63513ef36da787f2b](https://www.virustotal.com/gui/file/608fb305734364e63513ef36da787f2b)|Win64 DLL||2024-02-23 05:11:52|nk.dll.MALWARE|
 |[66c45a736e165cf78cee7970bbc74ead](https://www.virustotal.com/gui/file/66c45a736e165cf78cee7970bbc74ead)|Win64 DLL|Dorifel|2024-02-01 14:29:15|unknown|
 |[14af3f039f2398b454bbb64c7fdf4a22](https://www.virustotal.com/gui/file/14af3f039f2398b454bbb64c7fdf4a22)|Win64 EXE||2023-08-01 15:39:34|PuTTY|
+|[43a4f39e975005897bf8a11d3d493287](https://www.virustotal.com/gui/file/43a4f39e975005897bf8a11d3d493287)|Win32 EXE||2024-03-11 16:04:37|%SAMPLEPATH%|

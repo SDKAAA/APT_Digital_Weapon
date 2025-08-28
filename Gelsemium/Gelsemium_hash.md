@@ -17,3 +17,6 @@
 |[35e941f5df1560f0c2191c23e5189ada](https://www.virustotal.com/gui/file/35e941f5df1560f0c2191c23e5189ada)|Win32 EXE|krypyik|2020-05-19 16:35:03|C:\Users\Adam Smith\Desktop\a80c7010.exe|
 |[5d7cd888012605ddeab265865b7ba994](https://www.virustotal.com/gui/file/5d7cd888012605ddeab265865b7ba994)|Win32 DLL||2019-06-20 18:46:51|.|
 |[17ffeda7cf0f19381fb1eb0e70c03927](https://www.virustotal.com/gui/file/17ffeda7cf0f19381fb1eb0e70c03927)|Win64 DLL||2018-11-19 11:03:55|Unknown|
+|[606fe22545ec46d0934ea0c5f8cb7a68](https://www.virustotal.com/gui/file/606fe22545ec46d0934ea0c5f8cb7a68)|ELF executable||2025-07-24 12:35:15|C:\Windows\e3c0nxm4w.exe|
+|[19bceb587e91a1eae6903b1a633260d8](https://www.virustotal.com/gui/file/19bceb587e91a1eae6903b1a633260d8)|ELF executable||2025-02-05 08:03:48|udev|
+|[1900346185266ae49ae893b0b69dfcfd](https://www.virustotal.com/gui/file/1900346185266ae49ae893b0b69dfcfd)|ELF executable||2022-05-07 11:45:02| |

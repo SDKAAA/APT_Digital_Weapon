@@ -1220,3 +1220,23 @@
 |[98fee9d5e8bd1cae41dde318c4bc4454](https://www.virustotal.com/gui/file/98fee9d5e8bd1cae41dde318c4bc4454)|Win64 DLL||2024-11-21 02:31:45|python310.dll6d6263715dd13f8db5e9d0122502db4c.virus|
 |[c77a0f13a5d9862f35a9361c39a56713](https://www.virustotal.com/gui/file/c77a0f13a5d9862f35a9361c39a56713)|Win32 DLL||2024-11-21 02:27:39|wer.dll|
 |[e3bdeb0e9f76dcda3ffa12af392dfade](https://www.virustotal.com/gui/file/e3bdeb0e9f76dcda3ffa12af392dfade)|Win32 EXE||2024-10-16 07:01:40|jyftdrst|
+|[3f285f7af7383550e7f0fe7848a3b3c7](https://www.virustotal.com/gui/file/3f285f7af7383550e7f0fe7848a3b3c7)|Win64 EXE||2025-07-30 10:14:40|/home/petik/ss/malware/2025-07-31_3f285f7af7383550e7f0fe7848a3b3c7_akira_cobalt-strike_rusty-stealer_satacom|
+|[1ba6d40966b024bb99770ee9a4df27f2](https://www.virustotal.com/gui/file/1ba6d40966b024bb99770ee9a4df27f2)|LNK||2025-07-30 10:07:20|824574246.pdf.lnk|
+|[3516c5883806bb7bcfa0d22d849e4b2d](https://www.virustotal.com/gui/file/3516c5883806bb7bcfa0d22d849e4b2d)|LNK||2025-07-17 13:29:58|Seoul_ADEX_2025_International_UAV_Defence_Exhibition.pdf.lnk|
+|[279a5b41fe463729be3cb3b51091ef42](https://www.virustotal.com/gui/file/279a5b41fe463729be3cb3b51091ef42)|Win32 DLL||2025-07-09 14:31:48|C:\Windows\8ik1b033.exe|
+|[8930abf86e2e94b1a4b373e25d01f2ff](https://www.virustotal.com/gui/file/8930abf86e2e94b1a4b373e25d01f2ff)|LNK||2025-07-05 09:23:17|localfile~|
+|[3699b8277299668f9e8489a465723be7](https://www.virustotal.com/gui/file/3699b8277299668f9e8489a465723be7)|Win32 DLL||2025-07-04 13:15:53|maikjcef|
+|[463cba70dab72a16561f05a805626915](https://www.virustotal.com/gui/file/463cba70dab72a16561f05a805626915)|Win32 EXE||2025-06-30 22:28:41|%APPDATA%\nvs.exe|
+|[a3993f705e42c62baa1c1d8a02950a09](https://www.virustotal.com/gui/file/a3993f705e42c62baa1c1d8a02950a09)|DOCX|o97m|2025-06-26 13:01:14|07d5509988b1aa6f8d5203bc4b75e6d7be6acf5055831cc961a51d3e921f96bd.docx|
+|[8bf60787e2ac07d3b89663044812b520](https://www.virustotal.com/gui/file/8bf60787e2ac07d3b89663044812b520)|TXT||2025-06-16 05:36:49|Unit-942-Drone-Info-MAK3.html|
+|[0a109674d13280949787d2793016a2f5](https://www.virustotal.com/gui/file/0a109674d13280949787d2793016a2f5)|LNK||2025-06-12 11:04:25|AMPO_Conference_2025.pdf.lnk|
+|[3c80b259eb50a20e0c00ea756d7247d7](https://www.virustotal.com/gui/file/3c80b259eb50a20e0c00ea756d7247d7)|Win64 DLL||2025-06-11 22:26:11|DismCore.dll|
+|[166261543ac5dca43254ff216b8acb92](https://www.virustotal.com/gui/file/166261543ac5dca43254ff216b8acb92)|XML||2025-06-11 10:44:51|Aviation_Telecom_Collaboration_Proposal_Template.xlsx.msc|
+|[b0f2f200a69db71947578fca51d4ff94](https://www.virustotal.com/gui/file/b0f2f200a69db71947578fca51d4ff94)|DOCX|CVE-2017-0199|2025-05-04 07:14:11|57b9744b30903c7741e9966882815e1467be1115cbd6798ad4bfb3d334d3523d.doc|
+|[4cc371651f43e31df87b9f08013a14f6](https://www.virustotal.com/gui/file/4cc371651f43e31df87b9f08013a14f6)|LNK||2025-04-24 01:29:28|_4a626d128f00ed616e9eb3ba098920fd1d830c92cb8bdc8944e8bd9521a165ef.lnk|
+|[9ef7978394a2a0a82cbdef519a377190](https://www.virustotal.com/gui/file/9ef7978394a2a0a82cbdef519a377190)|Win32 EXE||2025-04-16 15:02:09|dpSec.exe.bin|
+|[7fa5016fc2d6d8008591923ed4770f11](https://www.virustotal.com/gui/file/7fa5016fc2d6d8008591923ed4770f11)|ZIP||2025-04-09 12:41:27|CamScanner 04-09-2025 1175.zip|
+|[2f1c58c7214471c28283b9e161ceed1c](https://www.virustotal.com/gui/file/2f1c58c7214471c28283b9e161ceed1c)|Win32 EXE|Dapato|2025-04-07 07:56:56|Spartacus.exe|
+|[3e8aff5697a513a749869744ad0ce135](https://www.virustotal.com/gui/file/3e8aff5697a513a749869744ad0ce135)|LNK||2025-04-04 10:38:16|ISPR Advisory March 2025.pdf.lnk|
+|[a864909e3ef648097ca3944b62068daf](https://www.virustotal.com/gui/file/a864909e3ef648097ca3944b62068daf)|Win32 EXE||2025-03-26 06:01:08|ggfbbbvb_54132|
+|[7abbff5071286cf3be077bd0304e5de3](https://www.virustotal.com/gui/file/7abbff5071286cf3be077bd0304e5de3)|Win32 EXE|Doina|2018-08-16 11:23:12|C:\Windows\jz638h6.exe|

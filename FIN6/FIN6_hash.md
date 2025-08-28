@@ -66,3 +66,6 @@
 |[67a53bd24ee8499fed79c8c368e05f7a](https://www.virustotal.com/gui/file/67a53bd24ee8499fed79c8c368e05f7a)|Win32 EXE||2017-11-25 00:21:05|Dll Launcher|
 |[413df8eb260b183003a5a1e009734f52](https://www.virustotal.com/gui/file/413df8eb260b183003a5a1e009734f52)|Win32 DLL|Ursu|2020-01-09 18:54:42|intl.dll|
 |[9b3ec7553b079f413565a7f61c8efd3c](https://www.virustotal.com/gui/file/9b3ec7553b079f413565a7f61c8efd3c)|Win32 DLL|occamy|2019-03-08 09:44:16|intl.dll|
+|[3dcf695a66e4cbfae5bca8a66b792457](https://www.virustotal.com/gui/file/3dcf695a66e4cbfae5bca8a66b792457)|LNK||2025-05-14 15:23:05|Kim_Kamara.lnk|
+|[54417a84f8cd4566145a30a25edf92f7](https://www.virustotal.com/gui/file/54417a84f8cd4566145a30a25edf92f7)|LNK||2025-04-14 19:28:51|Robert - Weisman .lnk|
+|[4374c1136a99d18bbb376cbda1f9e4b6](https://www.virustotal.com/gui/file/4374c1136a99d18bbb376cbda1f9e4b6)|LNK||2024-09-04 13:57:31|John Cboins.lnk|

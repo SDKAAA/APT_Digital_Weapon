@@ -9,3 +9,10 @@
 |[b4b1f2d8e823e45596f2d7e79aa1c6f6](https://www.virustotal.com/gui/file/b4b1f2d8e823e45596f2d7e79aa1c6f6)|DOC||2024-11-05 14:07:27| |
 |[fa2423762b6ebb9cdb3371cc435efb7b](https://www.virustotal.com/gui/file/fa2423762b6ebb9cdb3371cc435efb7b)|DOC||2024-11-01 06:36:09|O predstavlenii informatsii.doc|
 |[257df0985cfaf3b947e042fb9af82eed](https://www.virustotal.com/gui/file/257df0985cfaf3b947e042fb9af82eed)|Win32 DLL||2024-09-03 09:12:34|dmneirin.dll|
+|[b684c32fe323e10840ea1992d08cfa38](https://www.virustotal.com/gui/file/b684c32fe323e10840ea1992d08cfa38)|DOC||2025-01-28 03:35:25| |
+|[07ca69fd588c02f5424b08e0b832ea26](https://www.virustotal.com/gui/file/07ca69fd588c02f5424b08e0b832ea26)|DOC||2025-01-23 12:37:11| |
+|[7c26687af337f87fabe8cbfdad040421](https://www.virustotal.com/gui/file/7c26687af337f87fabe8cbfdad040421)|DOC||2025-01-22 07:36:30| |
+|[8d9fc934630e22ef50c53772f16335d3](https://www.virustotal.com/gui/file/8d9fc934630e22ef50c53772f16335d3)|DOC||2025-01-20 05:20:58| |
+|[3e20d2771e34aa2f468be6c5116ee763](https://www.virustotal.com/gui/file/3e20d2771e34aa2f468be6c5116ee763)|DOC||2025-01-14 19:09:37|222.doc|
+|[72dd2a0a3dd7d86882f952ee4cbbdc47](https://www.virustotal.com/gui/file/72dd2a0a3dd7d86882f952ee4cbbdc47)|DOC||2024-12-09 09:25:17| |
+|[a4c5ba083b544c748f2fc3d5539f71f9](https://www.virustotal.com/gui/file/a4c5ba083b544c748f2fc3d5539f71f9)|DOC||2024-12-09 06:56:01|C:\Users\user\Desktop\readme.doc (copy)|

@@ -99,3 +99,11 @@
 |[2866dd4b271ee6c9b6c35359f5f725c5](https://www.virustotal.com/gui/file/2866dd4b271ee6c9b6c35359f5f725c5)|Win32 EXE|Skeeyah|2023-09-18 14:19:21|Marwel Studio|
 |[ae54265ffb04a170169e6388cf5961b7](https://www.virustotal.com/gui/file/ae54265ffb04a170169e6388cf5961b7)|Win32 EXE|Skeeyah|2023-09-05 06:37:55|ImageWrapper|
 |[b7148ca558f1410c4282649756c5d9b1](https://www.virustotal.com/gui/file/b7148ca558f1410c4282649756c5d9b1)|Win32 EXE|Skeeyah|2023-08-29 08:28:05|Parabellum|
+|[83caa65afe19715794d05b79795324c9](https://www.virustotal.com/gui/file/83caa65afe19715794d05b79795324c9)|Win32 EXE||2025-06-13 18:55:57|BackgroundTransferHost.exe|
+|[2ff8daea615b5fede0b0b5219e618913](https://www.virustotal.com/gui/file/2ff8daea615b5fede0b0b5219e618913)|Win32 EXE||2025-04-28 07:19:33|perfhost.exe|
+|[0c03d5237e53facd034b810687726e41](https://www.virustotal.com/gui/file/0c03d5237e53facd034b810687726e41)|Win32 EXE|RevengeRAT|2025-04-23 19:03:10|svchost.exe|
+|[8517e1a765272dfd39e93472723bb838](https://www.virustotal.com/gui/file/8517e1a765272dfd39e93472723bb838)|Win32 EXE|Razy|2025-04-10 16:47:46|msm.exe|
+|[4b00ffc9e16eee4009e37ee219d5da2e](https://www.virustotal.com/gui/file/4b00ffc9e16eee4009e37ee219d5da2e)|Win32 EXE|Generickdz|2023-12-07 17:25:06|2023-12-07_4b00ffc9e16eee4009e37ee219d5da2e_darkside.exe|
+|[ab01f085916506cd7118f86c7b4951a4](https://www.virustotal.com/gui/file/ab01f085916506cd7118f86c7b4951a4)|Win32 EXE|Generickdz|2023-09-23 17:01:44|ab01f085916506cd7118f86c7b4951a4.virus|
+|[0a7f8233dba3b62e1d36cba78adccf5f](https://www.virustotal.com/gui/file/0a7f8233dba3b62e1d36cba78adccf5f)|Win32 EXE|LockBit|2023-06-26 10:22:28|0a7f8233dba3b62e1d36cba78adccf5f.virus|
+|[8a3436554bae0050c046bab9c9bdc074](https://www.virustotal.com/gui/file/8a3436554bae0050c046bab9c9bdc074)|Win32 EXE|AsyncRAT|2023-06-05 09:34:40|360realpro.exe|

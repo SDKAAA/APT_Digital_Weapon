@@ -11,3 +11,8 @@
 |[20aaa556161f66a73747161cd7bbadd7](https://www.virustotal.com/gui/file/20aaa556161f66a73747161cd7bbadd7)|Win64 EXE||2023-07-18 12:59:01|C:\Users\user\AppData\Local\Temp\.software.qfxwzeojmofommiamwudascqyhmyfiym.__selfdelete__.exe|
 |[4f79c70cce4207d0ad57a339a9c7f43c](https://www.virustotal.com/gui/file/4f79c70cce4207d0ad57a339a9c7f43c)|ELF shared library|Pupy|2024-02-16 09:27:56|libdsproxy.so|
 |[e7d24813535f74187db31d4114f607a1](https://www.virustotal.com/gui/file/e7d24813535f74187db31d4114f607a1)|ELF shared library|Pupy|2024-02-16 09:26:33|libdsmeeting.so|
+|[708450f590eaf23e869080d09ed14e01](https://www.virustotal.com/gui/file/708450f590eaf23e869080d09ed14e01)|ELF executable|Generickdz|2025-04-28 14:16:51|/scratch/zoo/2025/05/09/708450f590eaf23e869080d09ed14e01|
+|[8c8681e805e0ae7a7d1a609efc000c84](https://www.virustotal.com/gui/file/8c8681e805e0ae7a7d1a609efc000c84)|Win64 EXE|Generickdz|2025-04-21 10:36:46|3S1kc|
+|[379dca5f10a3967381ba47e47a4a20ed](https://www.virustotal.com/gui/file/379dca5f10a3967381ba47e47a4a20ed)|ELF executable|Generickdz|2024-11-21 18:19:51|CwJ4wKfQcgGNj|
+|[722ad4361ced63474f7a55f47ca9540c](https://www.virustotal.com/gui/file/722ad4361ced63474f7a55f47ca9540c)|Win64 EXE|Zbot|2024-02-22 17:23:48|VBtGzOcze428R|
+|[83786698a48f9081964fe126144a841f](https://www.virustotal.com/gui/file/83786698a48f9081964fe126144a841f)|Win64 EXE|Zbot|2023-10-23 18:24:20|wanfGV0QUUDMu|

@@ -751,3 +751,16 @@
 |[ff4ed4650fd0e188a952b05d82eee86f](https://www.virustotal.com/gui/file/ff4ed4650fd0e188a952b05d82eee86f)|Win32 EXE|Strictor|2021-03-04 23:11:08|eae62bb4110bcd00e9d1bcaba9000defcda3d1ab832fa2634d928559d066cb15.exe|
 |[134f7bc3e986da38720967747504e578](https://www.virustotal.com/gui/file/134f7bc3e986da38720967747504e578)|Win32 EXE||2017-11-07 14:21:03|1059-2a92da36965c1367b8150950c37c7254af2f6eba|
 |[ccab60d3b6aa5fa0c23a5ae59eabcf54](https://www.virustotal.com/gui/file/ccab60d3b6aa5fa0c23a5ae59eabcf54)|Win32 DLL|wdcr|2012-09-21 21:37:41|NetIds.dll|
+|[7f7e8d9bbb835f03084d088d5bb722af](https://www.virustotal.com/gui/file/7f7e8d9bbb835f03084d088d5bb722af)|ZIP||2025-07-15 14:42:26| |
+|[abe531e9f1e642c47260fac40dc41f59](https://www.virustotal.com/gui/file/abe531e9f1e642c47260fac40dc41f59)|Win64 EXE||2025-07-11 06:44:19| |
+|[81cd20319c8f0b2ce499f9253ce0a6a8](https://www.virustotal.com/gui/file/81cd20319c8f0b2ce499f9253ce0a6a8)|TXT|Trojan.PyInstaller|2025-07-10 04:10:56|81cd20319c8f0b2ce499f9253ce0a6a8.bin|
+|[3ca2eaf204611f3314d802c8b794ae2c](https://www.virustotal.com/gui/file/3ca2eaf204611f3314d802c8b794ae2c)|Win64 EXE|Trojan.PyInstaller|2025-06-26 09:32:44|C:\Users\USER\Desktop\2025-08-09-064104\d6046522-sample.exe|
+|[b6e3894c17fb05db754a61ac9a0e5925](https://www.virustotal.com/gui/file/b6e3894c17fb05db754a61ac9a0e5925)|DOC|AlienBot|2025-06-19 09:48:52|C:\Users\user\AppData\Local\Temp\tmsnrb41da2y867.tmp|
+|[433ad831814d8234c1b43daf607c120c](https://www.virustotal.com/gui/file/433ad831814d8234c1b43daf607c120c)|DOTM|o97m|2025-02-18 05:34:20|О внесении изменений.doc|
+|[919d1c4abd151525ec71d431f781306c](https://www.virustotal.com/gui/file/919d1c4abd151525ec71d431f781306c)|DOTM||2025-02-01 12:04:49| |
+|[2e70ecc70ecd13fccd6d5a5037226cee](https://www.virustotal.com/gui/file/2e70ecc70ecd13fccd6d5a5037226cee)|DOTM|o97m|2025-01-27 09:18:33|documents.php|
+|[889b83d375a0fb00670af5276816080e](https://www.virustotal.com/gui/file/889b83d375a0fb00670af5276816080e)|Win64 DLL||2024-06-18 17:12:11|eapphost.dll|
+|[9280def0cec100bca5d42472b114d8c7](https://www.virustotal.com/gui/file/9280def0cec100bca5d42472b114d8c7)|TXT||2024-05-17 20:35:30|sample1.js|
+|[5d938b4316421a2caf7e2e0121b36459](https://www.virustotal.com/gui/file/5d938b4316421a2caf7e2e0121b36459)|Win64 DLL||2024-05-15 08:18:28|tcpiphlpsvc.dll|
+|[4ac9b82140e75f0ec9acd20e4ce20640](https://www.virustotal.com/gui/file/4ac9b82140e75f0ec9acd20e4ce20640)|RAR|Stuxnet|2020-08-27 07:01:25|MalwareSamples_DontRunThese.rar|
+|[55d26438542a1f5e27d8f1e5e2e4af6d](https://www.virustotal.com/gui/file/55d26438542a1f5e27d8f1e5e2e4af6d)|Win32 EXE||2020-06-16 10:48:31|hhh|

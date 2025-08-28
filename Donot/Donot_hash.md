@@ -437,3 +437,31 @@
 |[044305cb5ea27280a50398851cc85e7a](https://www.virustotal.com/gui/file/044305cb5ea27280a50398851cc85e7a)|Win32 EXE|Zbot|2020-06-26 16:57:41|044305cb5ea27280a50398851cc85e7a.virus|
 |[e7ea5e853bf24762f849a1edec3c09b3](https://www.virustotal.com/gui/file/e7ea5e853bf24762f849a1edec3c09b3)|Win32 DLL|predator|2020-06-24 19:04:05|%APPDATA%\cmagolo\mecru.dll|
 |[24c3355e080887dc987cd8adaf2b3475](https://www.virustotal.com/gui/file/24c3355e080887dc987cd8adaf2b3475)|Win32 DLL|Stantinko|2020-06-11 19:02:08|\Users\Petra\AppData\Roaming\logical\mentn.dll|
+|[4dc45a51bbeeb7f8be4c7e89670cf38d](https://www.virustotal.com/gui/file/4dc45a51bbeeb7f8be4c7e89670cf38d)|Win32 EXE|Gandcrab|2025-08-13 00:13:12|exemplar|
+|[634dad51ede81115b0e7735deac467b5](https://www.virustotal.com/gui/file/634dad51ede81115b0e7735deac467b5)|Win32 EXE|Ehdoor|2025-08-13 00:12:10|exemplar|
+|[787941da6780a602a905991d14efcf81](https://www.virustotal.com/gui/file/787941da6780a602a905991d14efcf81)|Win32 EXE|Ehdoor|2025-08-13 00:11:08|exemplar|
+|[12ef7c1eef590aac6e2c7599f98136f0](https://www.virustotal.com/gui/file/12ef7c1eef590aac6e2c7599f98136f0)|GZIP|sLoad|2025-08-10 03:56:32|/scratch/zoo/2025/08/10/12ef7c1eef590aac6e2c7599f98136f0|
+|[6fea5a18d6d8fa8f7919fc940f470ca9](https://www.virustotal.com/gui/file/6fea5a18d6d8fa8f7919fc940f470ca9)|ZIP||2025-05-16 09:40:53|payload_1.zip|
+|[b4327f9e8fe8b9596c4b7317c75f7037](https://www.virustotal.com/gui/file/b4327f9e8fe8b9596c4b7317c75f7037)|PPT||2025-05-16 07:30:24| |
+|[7444fa72283fb28f158c8ca1e2c985ea](https://www.virustotal.com/gui/file/7444fa72283fb28f158c8ca1e2c985ea)|FPX||2023-01-12 08:01:58| |
+|[623929bc0dc75e7dcf5bc82db35a57a2](https://www.virustotal.com/gui/file/623929bc0dc75e7dcf5bc82db35a57a2)|DOCX||2023-01-12 08:01:13|MLA.xlsm|
+|[3ce05dc2d86c7fdd705eb8d97d40fe3a](https://www.virustotal.com/gui/file/3ce05dc2d86c7fdd705eb8d97d40fe3a)|FPX||2022-09-30 00:32:34| |
+|[28ed94b2353aa372cd966f105ec070d0](https://www.virustotal.com/gui/file/28ed94b2353aa372cd966f105ec070d0)|FPX||2022-09-14 06:54:59|/scratch/zoo/2025/05/09/28ed94b2353aa372cd966f105ec070d0|
+|[9122c51995939871c232dfb2d1f38634](https://www.virustotal.com/gui/file/9122c51995939871c232dfb2d1f38634)|XLS|o97m|2022-08-06 01:14:53|dttcodexgigas.1a756b2bfc13258691404b12f1680e2a87b93829|
+|[00ae32968e2beda978e968a983f98291](https://www.virustotal.com/gui/file/00ae32968e2beda978e968a983f98291)|XLS|o97m|2022-08-05 18:27:54|C:\Users\user\Desktop\accounts.xls|
+|[29d5e74a207d72e157ae19ad26a47d88](https://www.virustotal.com/gui/file/29d5e74a207d72e157ae19ad26a47d88)|DOCX||2022-04-17 10:58:46| |
+|[b0e44be2c6f845d40307627b218d33ea](https://www.virustotal.com/gui/file/b0e44be2c6f845d40307627b218d33ea)|FPX||2022-03-30 23:53:16| |
+|[1aebd5b1857c6444fc946fa649e0e56e](https://www.virustotal.com/gui/file/1aebd5b1857c6444fc946fa649e0e56e)|DOCX||2022-03-30 23:52:31| |
+|[0ca54ccafa3d3bc59a9cb300d18a6382](https://www.virustotal.com/gui/file/0ca54ccafa3d3bc59a9cb300d18a6382)|FPX||2022-03-28 07:50:44| |
+|[6efcff5d1cceb7c9ccf093b4a4f8a41f](https://www.virustotal.com/gui/file/6efcff5d1cceb7c9ccf093b4a4f8a41f)|DOCX||2021-03-29 14:46:25|templates/D394XML_V3.xltm|
+|[850f8105119c92defc2287b550a6651f](https://www.virustotal.com/gui/file/850f8105119c92defc2287b550a6651f)|XLAM|Valyria|2021-03-10 11:02:53|KTE da sua ko Virus.xlam|
+|[27064c2612a265a3a0e38ab8a2aefb08](https://www.virustotal.com/gui/file/27064c2612a265a3a0e38ab8a2aefb08)|XLAM|Valyria|2021-03-10 11:01:51|KTE da sua ko Virus.xlam|
+|[af3770d6f80841cedff55f39b090559a](https://www.virustotal.com/gui/file/af3770d6f80841cedff55f39b090559a)|DOCX||2020-12-23 15:44:37|MacabacusLite.xlsm|
+|[129cefbf7076e1eb105ba6d3d632c962](https://www.virustotal.com/gui/file/129cefbf7076e1eb105ba6d3d632c962)|XLSM|o97m|2020-08-20 09:18:10|38928-129cefbf7076e1eb105ba6d3d632c962.xlsm|
+|[0474325cfc9bb94ada64c4ac026cf0f6](https://www.virustotal.com/gui/file/0474325cfc9bb94ada64c4ac026cf0f6)|Win32 DLL|predator|2020-07-05 17:59:59|/Volumes/PromiseRAID/malware/2020/VirusShare_0474325cfc9bb94ada64c4ac026cf0f6|
+|[af7e4a0544b3e7184175c7f49033913e](https://www.virustotal.com/gui/file/af7e4a0544b3e7184175c7f49033913e)|Win32 DLL|Stantinko|2020-06-14 16:51:35|af7e4a0544b3e7184175c7f49033913e.virus|
+|[9c2f057f1e89dd7063d37277f582d866](https://www.virustotal.com/gui/file/9c2f057f1e89dd7063d37277f582d866)|Win32 DLL|predator|2020-06-11 16:02:37|c:\users\administrator\appdata\roaming\uppdown\eupol.dll|
+|[7dc0d90059ba02f28afee866a3452df9](https://www.virustotal.com/gui/file/7dc0d90059ba02f28afee866a3452df9)|XLAM||2020-06-10 07:59:24|\qSTAT\qSTAT.xlam|
+|[83155c96630b02eb3db0b8c423efa6f6](https://www.virustotal.com/gui/file/83155c96630b02eb3db0b8c423efa6f6)|FPX||2020-03-12 11:55:08|vbaProject.bin|
+|[278173e9086c9c233307e05deb9cb41c](https://www.virustotal.com/gui/file/278173e9086c9c233307e05deb9cb41c)|FPX||2017-05-14 21:31:40|vbaProject.bin|
+|[a1ef1d6a64862410aec0dbe80965b6f7](https://www.virustotal.com/gui/file/a1ef1d6a64862410aec0dbe80965b6f7)|FPX||2016-01-16 20:43:44|vbaProject.bin|

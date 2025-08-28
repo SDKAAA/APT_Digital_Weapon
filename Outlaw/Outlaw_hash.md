@@ -31,3 +31,8 @@
 |[e8710e790c04be153d11f8b66e4bb91e](https://www.virustotal.com/gui/file/e8710e790c04be153d11f8b66e4bb91e)|bash script||2019-01-30 10:59:59|0bf8868d117a7c45276b6f966c09830b010c550cd16a2b0d753924fca707c842.bin|
 |[be85068596881f3ebd6c0c76288c9415](https://www.virustotal.com/gui/file/be85068596881f3ebd6c0c76288c9415)|ELF shared library|Minerd|2021-01-11 19:36:49|wanwakuang|
 |[eefc0ce93d254982fbbcd26460f3d10d](https://www.virustotal.com/gui/file/eefc0ce93d254982fbbcd26460f3d10d)|ELF executable||2016-05-21 17:29:39|masscan|
+|[2a435332ffaa0505a5036f041da5ee03](https://www.virustotal.com/gui/file/2a435332ffaa0505a5036f041da5ee03)|GZIP|Generic Botnet|2024-10-28 21:48:21|330110111|
+|[b067abc476505eea79d2233ee3585626](https://www.virustotal.com/gui/file/b067abc476505eea79d2233ee3585626)|sh script|Generic Botnet|2023-03-01 18:55:48|virus/.configrc5/a/a|
+|[3b928d87be14aa661b14bb1c29636650](https://www.virustotal.com/gui/file/3b928d87be14aa661b14bb1c29636650)|ELF executable||2023-02-27 23:55:32|.rsync/a/kswapd0|
+|[019e23027bc3849142dd8625451ed5c0](https://www.virustotal.com/gui/file/019e23027bc3849142dd8625451ed5c0)|sh script|Minerd|2022-12-12 10:35:47|.rsync/a/init0|
+|[6f0eea77ad0a9467e3504928ef39c5fb](https://www.virustotal.com/gui/file/6f0eea77ad0a9467e3504928ef39c5fb)|sh script|Starter|2022-11-29 13:35:38|.rsync/b/run|

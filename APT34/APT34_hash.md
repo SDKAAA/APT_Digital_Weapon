@@ -155,3 +155,6 @@
 |[ffc3fd7dd91f9a8033b0de2db261241a](https://www.virustotal.com/gui/file/ffc3fd7dd91f9a8033b0de2db261241a)|ACE|BetaBot|2020-10-13 05:35:51|NEW ORDER AND SPECIFICATION.ace|
 |[e7d52ef521b8cd0b405575c185d64033](https://www.virustotal.com/gui/file/e7d52ef521b8cd0b405575c185d64033)|Win32 EXE||2025-02-17 17:22:47|windowsObject.exe|
 |[b51810a876c6641f953479014fc35c8c](https://www.virustotal.com/gui/file/b51810a876c6641f953479014fc35c8c)|Win64 DLL||2022-05-11 15:31:30|iisresauth.dll|
+|[399b8cab0d2b1375629db1389bd7ac2e](https://www.virustotal.com/gui/file/399b8cab0d2b1375629db1389bd7ac2e)|Win32 DLL||2022-10-14 02:13:32|TEST3|
+|[89da11bc421141dcf6d0fc9778646618](https://www.virustotal.com/gui/file/89da11bc421141dcf6d0fc9778646618)|Win32 EXE|Agentwdcr|2017-11-28 10:31:29|JuniperSetupClientInstaller.exe|
+|[6cc148363200798a12091b97a17181a1](https://www.virustotal.com/gui/file/6cc148363200798a12091b97a17181a1)|Win64 EXE||2017-09-07 05:40:48|C:\Users\Administrator\Desktop\test\test.exe|

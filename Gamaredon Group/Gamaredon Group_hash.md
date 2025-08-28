@@ -547,3 +547,62 @@
 |[ff8421dbdd63156a96b43c293becf45e](https://www.virustotal.com/gui/file/ff8421dbdd63156a96b43c293becf45e)|Android|androidos|2022-02-01 06:22:11|/app/downloads/My photos.zip|
 |[e99ba2d4784687ea3dddbe13b5fd6b78](https://www.virustotal.com/gui/file/e99ba2d4784687ea3dddbe13b5fd6b78)|Android|androidos|2022-01-31 16:23:59|/app/downloads/Личный.apk|
 |[83c4d4fad2bbc3385e84ed4ae9767cdb](https://www.virustotal.com/gui/file/83c4d4fad2bbc3385e84ed4ae9767cdb)|Win32 EXE||2014-06-18 20:12:13|83c4d4fad2bbc3385e84ed4ae9767cdb.vir|
+|[a051f0dcc701255b6009e758bde94b8f](https://www.virustotal.com/gui/file/a051f0dcc701255b6009e758bde94b8f)|ZIP||2025-08-12 13:55:21|C:\Windows\5wsq0y4k.exe|
+|[b57f15ed29beab97c623ec08aded6973](https://www.virustotal.com/gui/file/b57f15ed29beab97c623ec08aded6973)|HTML||2025-06-24 15:32:38|2-1180-25_24.06.2025.HTA|
+|[89475d4c7ac3c25e16f76ff07892ab15](https://www.virustotal.com/gui/file/89475d4c7ac3c25e16f76ff07892ab15)|HTML||2025-04-14 14:50:34|361-8964-25_14.04.2025/361-8964-25_14.04.2025.HTA|
+|[112f3df1108b4ddc431fa6e8fb02fdc9](https://www.virustotal.com/gui/file/112f3df1108b4ddc431fa6e8fb02fdc9)|ZIP||2025-04-14 12:37:25|01b746d6a74daac7503155b97f779fb53828c2b9fd254cb8c77d32fa147abb8e.zip|
+|[60d49d1dce771612aa87b885db493147](https://www.virustotal.com/gui/file/60d49d1dce771612aa87b885db493147)|TXT||2025-03-24 17:51:03|6c0603142d426119183b06968bb6c43fe997246782f9e60116ad3a8657771764.vbs|
+|[35963e2cb622326df9dbad92cb10c373](https://www.virustotal.com/gui/file/35963e2cb622326df9dbad92cb10c373)|LNK|Starter|2025-03-06 09:24:30|Zvernennya.docx.lnk|
+|[149936e1985b9318ad058472467aa229](https://www.virustotal.com/gui/file/149936e1985b9318ad058472467aa229)|LNK|Starter|2025-03-06 09:24:30|Vidmova_formalna.docx.lnk|
+|[2ef9d18e66a0e657c9f124cce0b38b5f](https://www.virustotal.com/gui/file/2ef9d18e66a0e657c9f124cce0b38b5f)|Win32 DLL|loader|2025-03-03 17:58:59|MindClient.dll|
+|[9d45119ab2f821a5fcb5f87a28e579b5](https://www.virustotal.com/gui/file/9d45119ab2f821a5fcb5f87a28e579b5)|LNK|Starter|2025-02-25 13:05:44|anketa A56-1.lnk|
+|[b533defb9566adf1cd2244bcf235ef8a](https://www.virustotal.com/gui/file/b533defb9566adf1cd2244bcf235ef8a)|TXT||2025-02-25 08:39:39|~.drv|
+|[4fd8351f8f1ca3902f7c901632771d58](https://www.virustotal.com/gui/file/4fd8351f8f1ca3902f7c901632771d58)|LNK|Starter|2025-02-24 10:15:27|uhvala.12.11.2024.xlsx.lnk|
+|[98cf1a959f11af59bd5ac2c2d746541f](https://www.virustotal.com/gui/file/98cf1a959f11af59bd5ac2c2d746541f)|TXT||2025-02-20 11:30:14|~.drv|
+|[405e482fb991c52326c64ed31c835e4d](https://www.virustotal.com/gui/file/405e482fb991c52326c64ed31c835e4d)|TXT||2025-02-18 15:22:28|%PUBLIC%\ntuser.dat.tmcontainer|
+|[5ef499a770f5d5583d5d232ed2aaf66b](https://www.virustotal.com/gui/file/5ef499a770f5d5583d5d232ed2aaf66b)|LNK|Starter|2025-02-04 15:43:07|rassledovanie_N0253.doc.lnk|
+|[1148abd57acdfb47206dcc990fd9333c](https://www.virustotal.com/gui/file/1148abd57acdfb47206dcc990fd9333c)|LNK|Starter|2025-01-31 10:59:56|ber.docx.lnk|
+|[acff2d4f5a0bc41a3d300ff751bc26b2](https://www.virustotal.com/gui/file/acff2d4f5a0bc41a3d300ff751bc26b2)|LNK|Starter|2025-01-27 16:39:20|Postanowa.docx.lnk|
+|[5eb312acd225e757fec0b6fb6a1d0d12](https://www.virustotal.com/gui/file/5eb312acd225e757fec0b6fb6a1d0d12)|LNK|Starter|2025-01-27 16:34:17|Postanowa.docx.lnk|
+|[5ca29f15a8b49081746a43235ee78db6](https://www.virustotal.com/gui/file/5ca29f15a8b49081746a43235ee78db6)|LNK|Starter|2025-01-21 17:13:40|Postanova.docx.lnk|
+|[0db436dafbe1b64eeb7caaefbe26ff05](https://www.virustotal.com/gui/file/0db436dafbe1b64eeb7caaefbe26ff05)|LNK|Starter|2025-01-21 17:13:39|Protokol_opituvannia_vydmova_v_krymynalnii_spravi.docx.lnk|
+|[1dac308724b3195bb936ac80d7266ebe](https://www.virustotal.com/gui/file/1dac308724b3195bb936ac80d7266ebe)|LNK|Starter|2025-01-15 12:36:53|3407607951 (Жолоб В.В)/ЖОЛОБ Владислав Вікторович.docx.lnk|
+|[850124cca29c6034cf623ba8b09b7947](https://www.virustotal.com/gui/file/850124cca29c6034cf623ba8b09b7947)|TXT||2025-01-08 22:24:02|~.drv|
+|[2c666d7b2674a30c444f459041f0da30](https://www.virustotal.com/gui/file/2c666d7b2674a30c444f459041f0da30)|LNK|Starter|2025-01-08 15:19:29|033de779278ecfdee7117d5d0a710e22eb501421e0c5f93e4ea3e82f414bbb90N|
+|[7fb9ad48766f77441b8389d6ff233409](https://www.virustotal.com/gui/file/7fb9ad48766f77441b8389d6ff233409)|TXT||2025-01-06 07:05:28|~.drv|
+|[17292f18012dbb863e9945fc434e6e48](https://www.virustotal.com/gui/file/17292f18012dbb863e9945fc434e6e48)|TXT||2025-01-02 14:18:58|~.drv|
+|[7bbd6e738305b01a1c77db755cf01053](https://www.virustotal.com/gui/file/7bbd6e738305b01a1c77db755cf01053)|TXT||2025-01-01 12:59:01|~.drv|
+|[26767ecebd6e9f2c0b7cda3ecfd90982](https://www.virustotal.com/gui/file/26767ecebd6e9f2c0b7cda3ecfd90982)|LNK||2024-12-27 17:09:41|README.docx.lnk|
+|[b359682d874fc19cf48c9e37c8fbc996](https://www.virustotal.com/gui/file/b359682d874fc19cf48c9e37c8fbc996)|LNK|Bumblebee|2024-12-26 19:54:51|documents.lnk|
+|[41592fa9dad0601a59eb316af0ac7627](https://www.virustotal.com/gui/file/41592fa9dad0601a59eb316af0ac7627)|LNK|Starter|2024-12-26 17:57:23|Nakaz.doc.lnk|
+|[22a18dc4988e6c1e59a1b3d54fc2016a](https://www.virustotal.com/gui/file/22a18dc4988e6c1e59a1b3d54fc2016a)|LNK|Starter|2024-12-26 17:24:12|uzagalnena_informacia_spisan_vtrat_100103.xlsx.lnk|
+|[200a34e46bda05e68191aea02d12ed9e](https://www.virustotal.com/gui/file/200a34e46bda05e68191aea02d12ed9e)|LNK|Starter|2024-12-26 14:59:52|UkrSpec_gramota.png.lnk|
+|[1dd11223c483ef8f360e69b6c298a4be](https://www.virustotal.com/gui/file/1dd11223c483ef8f360e69b6c298a4be)|LNK|Starter|2024-12-26 12:41:37|UkrBron_gramota.png.lnk|
+|[9e1f6d2d25193f5d31c1ee8338b1a72c](https://www.virustotal.com/gui/file/9e1f6d2d25193f5d31c1ee8338b1a72c)|LNK||2024-12-25 17:17:40|README.txt|
+|[817ba23224a66963e33d6eb2f9be63c4](https://www.virustotal.com/gui/file/817ba23224a66963e33d6eb2f9be63c4)|TXT||2024-12-25 10:31:30|~.drv.vir|
+|[0d08e2f8fee794e356d1a01b5bb38b87](https://www.virustotal.com/gui/file/0d08e2f8fee794e356d1a01b5bb38b87)|LNK||2024-12-21 23:18:08|Bootstrapper.exe.lnk|
+|[0cbf38cf6874089b7958eb3327d8d4f3](https://www.virustotal.com/gui/file/0cbf38cf6874089b7958eb3327d8d4f3)|LNK||2024-12-21 08:36:16|Bootstrapper.exe.lnk|
+|[5b1396364c0c0d20ab3dc4767dcb8e91](https://www.virustotal.com/gui/file/5b1396364c0c0d20ab3dc4767dcb8e91)|LNK||2024-12-20 19:12:48|v1.1.0/README.docx.lnk|
+|[3067d11bca1acb7c99fd33035d66d96a](https://www.virustotal.com/gui/file/3067d11bca1acb7c99fd33035d66d96a)|LNK||2024-12-20 17:48:03|Bootstrapper.exe.lnk|
+|[0266e77c7123420098b9a05da08007e0](https://www.virustotal.com/gui/file/0266e77c7123420098b9a05da08007e0)|LNK||2024-12-20 15:11:40|Script.txt.lnk|
+|[83c03dcbc0ee23af38698a0c378b7acb](https://www.virustotal.com/gui/file/83c03dcbc0ee23af38698a0c378b7acb)|LNK|Starter|2024-12-20 11:26:04|ecf7e135bcdcad3274e94c6ab918b683da619e91a9e0c68bd8d6355b33bfc5da.lnk|
+|[0248e574d4c81c09385db6fa80cabe0e](https://www.virustotal.com/gui/file/0248e574d4c81c09385db6fa80cabe0e)|LNK||2024-12-18 21:49:32|v1.1.0/README.docx.lnk|
+|[8b97b4d4905e9e01ac7c3f5d27ab5f28](https://www.virustotal.com/gui/file/8b97b4d4905e9e01ac7c3f5d27ab5f28)|LNK||2024-12-18 19:16:37|v1.1.0/readme.docx.lnk|
+|[11fcebede652f2cda0cc7b0b1d351b51](https://www.virustotal.com/gui/file/11fcebede652f2cda0cc7b0b1d351b51)|LNK|Starter|2024-12-16 14:25:46|121746df4264aca0c138d35bbe5e2c6eaaa60b72967a527687e83d7e2c653207.lnk|
+|[9bac38e9d321017e1376f7928901f6cd](https://www.virustotal.com/gui/file/9bac38e9d321017e1376f7928901f6cd)|LNK|Starter|2024-12-13 09:15:59|1.lnk|
+|[53fe1f6b3d603d846580cc1be649c2aa](https://www.virustotal.com/gui/file/53fe1f6b3d603d846580cc1be649c2aa)|TXT||2024-12-10 22:35:30|%USERPROFILE%\~.tmp|
+|[41f6fc3ef347dc8b3b0b6740a7346714](https://www.virustotal.com/gui/file/41f6fc3ef347dc8b3b0b6740a7346714)|LNK|Starter|2024-12-05 19:50:53|11739301 [ШМИРКО К.О.].lnk|
+|[4f3b3c5b8b30f8540cadfeff796463a7](https://www.virustotal.com/gui/file/4f3b3c5b8b30f8540cadfeff796463a7)|LNK||2024-12-04 17:56:50|Red One 2024 1080p TELESYNC x264 COLLECTiVE.lnk|
+|[00c48e429910f71e5057b65c5da8969a](https://www.virustotal.com/gui/file/00c48e429910f71e5057b65c5da8969a)|LNK|Starter|2024-12-01 13:56:05|1.docx.lnk|
+|[0a1a5b431ac183e72e18ca88288e6759](https://www.virustotal.com/gui/file/0a1a5b431ac183e72e18ca88288e6759)|LNK|Starter|2024-11-26 14:40:48|Zrazok0356.xlsx.lnk|
+|[3dba2da97e82193d646b059364016f5f](https://www.virustotal.com/gui/file/3dba2da97e82193d646b059364016f5f)|LNK||2024-11-20 18:20:35|Complete Guide To The Human Body - 2nd Edition, 2024.lnk|
+|[07cf485907f7cfc695367196e61936ff](https://www.virustotal.com/gui/file/07cf485907f7cfc695367196e61936ff)|LNK||2024-11-20 13:48:59|Butt Seriously The Definitive Guide to Anal Health, Pleasure, and Everything In Between.lnk|
+|[4d69e94207e9c8a963f03bd408f69e43](https://www.virustotal.com/gui/file/4d69e94207e9c8a963f03bd408f69e43)|HTML||2024-11-15 18:08:44| |
+|[aef05d08cc1d86333eb01d3740d682af](https://www.virustotal.com/gui/file/aef05d08cc1d86333eb01d3740d682af)|HTML||2024-11-15 16:29:05| |
+|[380fc5c6fa55301e1feb1511b135448a](https://www.virustotal.com/gui/file/380fc5c6fa55301e1feb1511b135448a)|LNK|Starter|2024-11-15 15:49:04|Nakaz_shchodo_perevirki_gotovnosti_1mb_15.11.2024.docx.lnk|
+|[870d291e7c77e6f588fcadb87da4f052](https://www.virustotal.com/gui/file/870d291e7c77e6f588fcadb87da4f052)|LNK|Starter|2024-11-15 15:49:04|signal-2024-09-07-173435_002.jpg.lnk|
+|[905dc7c24e3145943df6866e17e18d54](https://www.virustotal.com/gui/file/905dc7c24e3145943df6866e17e18d54)|LNK|Starter|2024-11-15 15:49:04|Rozrahunok_rozpodil_operativnogo_skladu.doc.lnk|
+|[9b79733073215925d05220873a3c7442](https://www.virustotal.com/gui/file/9b79733073215925d05220873a3c7442)|LNK|Starter|2024-11-15 15:49:04|PBP_24_godini.xls.lnk|
+|[9bde92d297d4e39fc88986346bf6ceb3](https://www.virustotal.com/gui/file/9bde92d297d4e39fc88986346bf6ceb3)|LNK|Starter|2024-11-15 15:49:04|signal-2024-10-09-152042_002.jpg.lnk|
+|[b8a1d2e3fb32be2559a3808cf50c6c7b](https://www.virustotal.com/gui/file/b8a1d2e3fb32be2559a3808cf50c6c7b)|LNK|Starter|2024-11-15 15:49:04|raport_rozporyadzhenci.docx.lnk|
+|[02c6b1f9907a1d11e707862ce94039e1](https://www.virustotal.com/gui/file/02c6b1f9907a1d11e707862ce94039e1)|TXT||2024-08-13 11:06:05|payload_1.ps1|

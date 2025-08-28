@@ -49,3 +49,6 @@
 |[10f5561b7515bc0d66916bef04b63dae](https://www.virustotal.com/gui/file/10f5561b7515bc0d66916bef04b63dae)|Win32 EXE||2021-02-07 09:56:57|EmailDownloader.exe|
 |[5c91c1d833173f6ae599ef1d4133f235](https://www.virustotal.com/gui/file/5c91c1d833173f6ae599ef1d4133f235)|Win32 EXE||2021-01-26 05:35:31|EmailDownloader.exe|
 |[45c3592373ba9e5f8f23c6b30fb4d2e4](https://www.virustotal.com/gui/file/45c3592373ba9e5f8f23c6b30fb4d2e4)|Win32 EXE||2021-01-12 09:59:14|EmailDownloader.exe|
+|[70492bc160d0a7d47e8680fbbc87c76d](https://www.virustotal.com/gui/file/70492bc160d0a7d47e8680fbbc87c76d)|Win64 DLL||2025-04-07 09:26:43|ssts.dll|
+|[ae7a7a05afc09adb64d307fefe22ba86](https://www.virustotal.com/gui/file/ae7a7a05afc09adb64d307fefe22ba86)|Win64 DLL|loader|2025-04-07 09:26:43|Sin.dll|
+|[87144d0aa002a87376b673f7d0c0eb88](https://www.virustotal.com/gui/file/87144d0aa002a87376b673f7d0c0eb88)|LNK|Vigorf|2025-04-07 09:26:24|RAND Discussion Topics.lnk|

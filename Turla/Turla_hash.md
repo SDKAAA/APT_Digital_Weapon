@@ -446,3 +446,7 @@
 |[ce4a1572a1c6c4aa5e5731d44f3a1db0](https://www.virustotal.com/gui/file/ce4a1572a1c6c4aa5e5731d44f3a1db0)|Win64 DLL|Turla|2020-11-26 00:41:44|ce4a1572a1c6c4aa5e5731d44f3a1db0.virobj|
 |[15cc14b87da73661d0abc9f5aaa34350](https://www.virustotal.com/gui/file/15cc14b87da73661d0abc9f5aaa34350)|Win64 DLL|Turla|2020-11-26 00:25:04| |
 |[19743d8e8590b5f644d452a9ddd77435](https://www.virustotal.com/gui/file/19743d8e8590b5f644d452a9ddd77435)|Win64 DLL|Turla|2020-11-25 23:58:40| |
+|[1bc5621a4818f2124ac085da21f607ca](https://www.virustotal.com/gui/file/1bc5621a4818f2124ac085da21f607ca)|Win64 EXE||2025-07-30 16:15:12|SPAM/13fafb1ae2d5de024e68f2e2fc820bc79ef0690c40dbfd70246bcc394c52ea20.exe|
+|[7ed6127ce6693aa432c7fd234b547b6b](https://www.virustotal.com/gui/file/7ed6127ce6693aa432c7fd234b547b6b)|Win32 DLL||2024-05-07 09:49:59|pfnmwx5v.dll|
+|[7b994c097a9b3ac9db6d2bba63279825](https://www.virustotal.com/gui/file/7b994c097a9b3ac9db6d2bba63279825)|Win32 DLL||2024-05-07 09:49:58|0tpeqkf3.dll|
+|[82fc41b3e9ce722d4e6b21580e873d52](https://www.virustotal.com/gui/file/82fc41b3e9ce722d4e6b21580e873d52)|Win64 DLL|Turla|2020-11-03 09:22:05|sjdkfghkjds.bin|

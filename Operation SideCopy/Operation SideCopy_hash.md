@@ -41,3 +41,9 @@
 |[30d4963973b1a79d3feccb882245fdcd](https://www.virustotal.com/gui/file/30d4963973b1a79d3feccb882245fdcd)|Win32 EXE||2020-04-22 08:54:24|C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\winms.exe|
 |[d1c9d0780a9d5712d5a8dcb29b1a6ef6](https://www.virustotal.com/gui/file/d1c9d0780a9d5712d5a8dcb29b1a6ef6)|Win32 EXE|Graftor|2019-03-03 22:29:24|Moliy|
 |[57a29bc23c7b923dea1586b46b489ad7](https://www.virustotal.com/gui/file/57a29bc23c7b923dea1586b46b489ad7)|ZIP|foretype|2019-02-14 04:56:41|Document_New_10000.docx.zip|
+|[8ea820956110c4b4c6fc239b52ea765e](https://www.virustotal.com/gui/file/8ea820956110c4b4c6fc239b52ea765e)|ZIP||2025-07-18 06:26:22|_86c318e3a0477ef40344673302cfc31a9696a0cf3c866777ed322ccd623fe0d3.zip|
+|[6af1776a02536f72f810ca0fa21f38ff](https://www.virustotal.com/gui/file/6af1776a02536f72f810ca0fa21f38ff)|Win64 DLL||2025-05-06 10:03:54|C:\Users\vibe\Desktop\LAB\CUIDADO INFECTADO\50f30b78df1a225d9f99d036a8109d79af226b59ab735abb84fa042b93acccdd.exe|
+|[68c7c14b9ac69491b23b3c3ad88f3a1e](https://www.virustotal.com/gui/file/68c7c14b9ac69491b23b3c3ad88f3a1e)|LNK||2025-05-06 09:58:56|Blackout-Rehearsal-Plan/Blackout-Rehearsal-Plan.pdf.lnk|
+|[b62833e49f55d11f0b958dc8803621db](https://www.virustotal.com/gui/file/b62833e49f55d11f0b958dc8803621db)|ZIP||2025-05-06 09:57:47|Blackout-Rehearsal-Plan.zip|
+|[356a0f50131eb175f1cca91a1476f3a4](https://www.virustotal.com/gui/file/356a0f50131eb175f1cca91a1476f3a4)|Win32 EXE||2025-04-26 03:40:26|wincplmb|
+|[06625204e65d868f778655be1bb52452](https://www.virustotal.com/gui/file/06625204e65d868f778655be1bb52452)|Win32 EXE|drat|2024-11-18 11:07:07|wincoremedialib|

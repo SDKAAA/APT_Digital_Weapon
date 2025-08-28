@@ -59,3 +59,6 @@
 |[0d3b8181bbd38c07dd303c8883b9d75e](https://www.virustotal.com/gui/file/0d3b8181bbd38c07dd303c8883b9d75e)|Win32 EXE|CobaltStrike|2023-12-25 03:13:13|Vmware.exe|
 |[3950ef1ba3e2bdd359af27b58c70612e](https://www.virustotal.com/gui/file/3950ef1ba3e2bdd359af27b58c70612e)|CAB|CobaltStrike|2023-12-25 03:13:13|C:\Users\user\AppData\Roaming\vAwAgE.tmp|
 |[b8b382d36ccb1a9aaaace84c7a1db885](https://www.virustotal.com/gui/file/b8b382d36ccb1a9aaaace84c7a1db885)|TXT|horse|2023-12-25 03:05:46|Sino-Africa_relations/__MACOS/_params.cat.js|
+|[2b782906cb40f81eb29b800381eb8da2](https://www.virustotal.com/gui/file/2b782906cb40f81eb29b800381eb8da2)|Win64 DLL|Zbot|2025-03-23 18:22:20|C:\Windows\zkdhtwedtx.exe|
+|[5d47f64a5fdf45816b9cbb9ef05fcb3c](https://www.virustotal.com/gui/file/5d47f64a5fdf45816b9cbb9ef05fcb3c)|Win64 DLL|Zbot|2022-06-27 20:35:43|76d6b638a9a22dce8edab0145fcdb09adb986fb98222fab0127df60c2fed8112.exe|
+|[217a10f890ae4caec77437f1db4c95ab](https://www.virustotal.com/gui/file/217a10f890ae4caec77437f1db4c95ab)|Win64 DLL|Zbot|2022-05-29 10:46:14|DeElevator64.dll|

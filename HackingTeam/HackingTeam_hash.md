@@ -43,3 +43,4 @@
 |[3f67b25082212393668c51710fe8191d](https://www.virustotal.com/gui/file/3f67b25082212393668c51710fe8191d)|Win32 EXE||2020-03-08 17:56:50|LiveNetTV.exe|
 |[51a2646f7586c1864507d057ef1f3500](https://www.virustotal.com/gui/file/51a2646f7586c1864507d057ef1f3500)|Win32 EXE||2020-01-07 08:54:25|C:\Users\test2\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\java.exe|
 |[b4692bb8776ab351a8104346b858aea5](https://www.virustotal.com/gui/file/b4692bb8776ab351a8104346b858aea5)|Win32 EXE||2019-10-18 21:44:52|RapidEXE|
+|[92d4556d3d594b987044106388d484b3](https://www.virustotal.com/gui/file/92d4556d3d594b987044106388d484b3)|ZIP||2016-02-04 12:08:33|mac.zip|

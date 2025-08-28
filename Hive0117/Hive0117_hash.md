@@ -16,3 +16,6 @@
 |[c04fb45d5aea6ec30114bd8155c7792a](https://www.virustotal.com/gui/file/c04fb45d5aea6ec30114bd8155c7792a)|ZIP||2023-05-09 22:30:56|Мобилизационное предписание №186-31005-23 от 10.05.2023.zip|
 |[e0cdcf346e98aa22cac5dd6ad1ef53d5](https://www.virustotal.com/gui/file/e0cdcf346e98aa22cac5dd6ad1ef53d5)|Win32 EXE||2023-01-20 01:08:14| |
 |[ede6e26ab4fe6d35ddb58613fbdf6b97](https://www.virustotal.com/gui/file/ede6e26ab4fe6d35ddb58613fbdf6b97)|Win32 EXE||2022-11-18 15:08:24|dogovor.exe|
+|[33f5b851df378f64a26c7f7c65cf9017](https://www.virustotal.com/gui/file/33f5b851df378f64a26c7f7c65cf9017)|TXT||2025-04-29 06:39:54|0221694283|
+|[896fd83eedf009c0e54cd36889d5d5fa](https://www.virustotal.com/gui/file/896fd83eedf009c0e54cd36889d5d5fa)|Win32 EXE||2023-10-02 21:20:28|spz-test6169628514891521337114-2329.09.2023.exe|
+|[5712568d781f9ba19a70e3c544268fe5](https://www.virustotal.com/gui/file/5712568d781f9ba19a70e3c544268fe5)|Win32 EXE||2023-05-10 06:42:09|Мобилизационное предписание №5010421409-ВВК от 10.05.2023.exe|

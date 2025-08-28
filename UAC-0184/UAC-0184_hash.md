@@ -39,3 +39,9 @@
 |[399cb8d4ea6efc57caa562b3a35436de](https://www.virustotal.com/gui/file/399cb8d4ea6efc57caa562b3a35436de)|ZIP||2024-05-27 08:45:50|C:\Users\user\AppData\Roaming\pkg.zip|
 |[0163438b482d91e4e66118effd50f17e](https://www.virustotal.com/gui/file/0163438b482d91e4e66118effd50f17e)|Win64 DLL||2024-05-27 08:44:23|python310.dll|
 |[2de58abe7f7436f79834900315194160](https://www.virustotal.com/gui/file/2de58abe7f7436f79834900315194160)|LNK||2024-05-27 08:41:07|NewCopy.xlsx.lnk.download|
+|[760a66081ec2d78374fbb155eca70890](https://www.virustotal.com/gui/file/760a66081ec2d78374fbb155eca70890)|LNK||2025-06-23 11:11:25|C:\Users\user\AppData\Local\Temp\i4bnzwrw.sh1\Vidmova_formalna.docx.lnk|
+|[a966d64a08fe6c56ae720aabb418b326](https://www.virustotal.com/gui/file/a966d64a08fe6c56ae720aabb418b326)|LNK||2025-06-18 12:45:17|C:\Users\user\AppData\Local\Temp\1sa10v0v.tip\SDD.docx.lnk|
+|[3677ec85bca1b0aaa4417ad162fb34e4](https://www.virustotal.com/gui/file/3677ec85bca1b0aaa4417ad162fb34e4)|LNK||2025-06-18 11:24:44|Zvernennia.docx.lnk|
+|[8bb1d2ac363d2b87c461f6bb84ecfac8](https://www.virustotal.com/gui/file/8bb1d2ac363d2b87c461f6bb84ecfac8)|LNK||2025-06-18 11:24:44|Suprovdnii_list_poyasnennia.docx.lnk|
+|[93f062669ec4b2df9f0d2d408cd403cb](https://www.virustotal.com/gui/file/93f062669ec4b2df9f0d2d408cd403cb)|LNK||2025-06-09 17:01:55|C:\Users\user\AppData\Local\Temp\maq52w2r.244\Zvernennya.docx.lnk|
+|[ada417d7d39121aa6822e1735ff59cc4](https://www.virustotal.com/gui/file/ada417d7d39121aa6822e1735ff59cc4)|LNK||2025-06-09 17:01:55|C:\Users\user\AppData\Local\Temp\maq52w2r.244\Vidmova_formalna.docx.lnk|

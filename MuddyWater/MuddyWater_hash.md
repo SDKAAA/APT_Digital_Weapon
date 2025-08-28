@@ -311,3 +311,11 @@
 |[4221ca1a9f9f6e0c9b9ddd58e2c2f863](https://www.virustotal.com/gui/file/4221ca1a9f9f6e0c9b9ddd58e2c2f863)|Win32 EXE||2024-12-02 15:04:44|NEWתכנית תירוש פיננסים.exe|
 |[5ff93c8410c0095b161d92b7cb9885b3](https://www.virustotal.com/gui/file/5ff93c8410c0095b161d92b7cb9885b3)|FPX||2024-12-01 10:42:11|International Webinar.msi|
 |[0220a7d4b82136a3c7973a627e4b5f50](https://www.virustotal.com/gui/file/0220a7d4b82136a3c7973a627e4b5f50)|FPX||2024-11-27 15:59:50|5c13e6.msi|
+|[70faba9631e9a5403f8f6044d17c5fbf](https://www.virustotal.com/gui/file/70faba9631e9a5403f8f6044d17c5fbf)|Android|androidos|2025-07-21 14:22:45|C:\Windows\0gk6sfo.exe|
+|[04de3ee4398b9566a05f7a3d8bc8f441](https://www.virustotal.com/gui/file/04de3ee4398b9566a05f7a3d8bc8f441)|Android|androidos|2025-07-02 10:45:07|com.earth.earth_vpn.apk|
+|[3682be86f3ae1d874e40fb4e282527a9](https://www.virustotal.com/gui/file/3682be86f3ae1d874e40fb4e282527a9)|Android|androidos|2025-06-19 23:08:37|aa656a243d2008327e06fd5bbad919eea99aa271132dbaeabb146e22effbfd1b.apk|
+|[7193569b9c4eef624e2c2f6d4372d26d](https://www.virustotal.com/gui/file/7193569b9c4eef624e2c2f6d4372d26d)|Android||2024-04-13 05:00:44| |
+|[a77fd2a5f256f8ae81814370ac6ca1c3](https://www.virustotal.com/gui/file/a77fd2a5f256f8ae81814370ac6ca1c3)|Android|androidos|2023-07-16 21:54:54|HideVPN.apk|
+|[17bbcce70b9554c550c1b0c909fa602a](https://www.virustotal.com/gui/file/17bbcce70b9554c550c1b0c909fa602a)|Android|androidos|2023-01-05 06:01:09|base.apk|
+|[753d0243653081e28c74255d049487e6](https://www.virustotal.com/gui/file/753d0243653081e28c74255d049487e6)|Android||2022-08-02 10:06:27|Ziraat Mobil.apk|
+|[9f216007822191729e4bbb4f80f2c26e](https://www.virustotal.com/gui/file/9f216007822191729e4bbb4f80f2c26e)|Win32 DLL|Denes|2020-01-09 04:57:47|DNSClient.dll|

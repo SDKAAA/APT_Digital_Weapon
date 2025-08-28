@@ -161,3 +161,14 @@
 |[96ead5be5d783312c9a7638eada90cd0](https://www.virustotal.com/gui/file/96ead5be5d783312c9a7638eada90cd0)|Win32 EXE||2015-09-23 22:39:36|pupyx86.exe|
 |[dcda997b5f757dbfdb0f4b1bd5204a78](https://www.virustotal.com/gui/file/dcda997b5f757dbfdb0f4b1bd5204a78)|Win64 EXE||2015-09-23 03:17:11|pupyx64.exe|
 |[37f52a2a2c7100c9e138e53bb60b5739](https://www.virustotal.com/gui/file/37f52a2a2c7100c9e138e53bb60b5739)|Win64 EXE||2015-09-23 00:56:37|runme.exe|
+|[07b7b5cef37af10eacc46f4f37eda5df](https://www.virustotal.com/gui/file/07b7b5cef37af10eacc46f4f37eda5df)|Win32 EXE|Shelma|2022-09-19 01:59:38| |
+|[6885c77658eb6e6e1f41609dc6c09ecd](https://www.virustotal.com/gui/file/6885c77658eb6e6e1f41609dc6c09ecd)|Win32 DLL||2022-07-28 08:57:52|f9adf73bf1cdd7cd278e5137d966ddd4_sig_replaced|
+|[3482495b07e6ed3a3c116563aa0c5a7b](https://www.virustotal.com/gui/file/3482495b07e6ed3a3c116563aa0c5a7b)|Win32 EXE||2022-07-26 09:57:47|163077221|
+|[94c5c76b7764de8b3ca9ac5c6921f348](https://www.virustotal.com/gui/file/94c5c76b7764de8b3ca9ac5c6921f348)|Win32 EXE||2022-07-25 23:33:21|163077221|
+|[11fbbb66c11d38bf9fb793dbd03967ff](https://www.virustotal.com/gui/file/11fbbb66c11d38bf9fb793dbd03967ff)|Win32 EXE||2019-09-13 11:08:08| |
+|[6e0826078dccd6f3f8de04753f0693a0](https://www.virustotal.com/gui/file/6e0826078dccd6f3f8de04753f0693a0)|Win64 EXE|Pupy|2017-01-10 05:21:20|0n90Ph.exe|
+|[446794015aeaad99e2600176d79103c1](https://www.virustotal.com/gui/file/446794015aeaad99e2600176d79103c1)|Win32 EXE||2016-09-16 21:05:39|Wextract|
+|[8e6a7992dd9fe8cf76b5fde9ac905d99](https://www.virustotal.com/gui/file/8e6a7992dd9fe8cf76b5fde9ac905d99)|Win32 EXE||2016-07-03 06:07:35|pupyx86.exe|
+|[b2ddbb49810d2dcdcaf4501f05ed3874](https://www.virustotal.com/gui/file/b2ddbb49810d2dcdcaf4501f05ed3874)|Win32 EXE||2016-07-02 09:34:50|pupy_test.exe|
+|[5bb4c96a077c4347a614a6e37bf588b1](https://www.virustotal.com/gui/file/5bb4c96a077c4347a614a6e37bf588b1)|Win32 EXE||2015-12-16 02:44:56| |
+|[15df7a850f8c697f4cdfc1f3de882951](https://www.virustotal.com/gui/file/15df7a850f8c697f4cdfc1f3de882951)|Win32 EXE||2015-09-22 19:00:43|pupyx86.exe|

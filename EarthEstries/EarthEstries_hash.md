@@ -18,3 +18,4 @@
 |[5506cd059deb405a0a5bea3aebf8f5c2](https://www.virustotal.com/gui/file/5506cd059deb405a0a5bea3aebf8f5c2)|ZIP|Kryptik|2022-03-07 04:46:15|OneDrive.zip|
 |[9ab585db719e1cd3a18ff6447ac3e38b](https://www.virustotal.com/gui/file/9ab585db719e1cd3a18ff6447ac3e38b)|ELF executable||2024-08-03 06:57:23|Ubun_ntp|
 |[7394229455151a9cd036383027a1536b](https://www.virustotal.com/gui/file/7394229455151a9cd036383027a1536b)|Win64 EXE||2020-09-14 02:03:42|/data/modqi/samples/all/87305aa7147f71557272ba75b65c11deeba94d35d9dc6d6f7a87075e3de78bec|
+|[709be30c563b6e7a3a26bbce1050a8ba](https://www.virustotal.com/gui/file/709be30c563b6e7a3a26bbce1050a8ba)|Win32 DLL||2025-03-20 07:45:41|BrLogAPI.dll|

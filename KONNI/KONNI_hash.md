@@ -148,3 +148,23 @@
 |[d700cfeddac3727eba2a297474d9adf4](https://www.virustotal.com/gui/file/d700cfeddac3727eba2a297474d9adf4)|Win32 DLL|Zenpak|2020-05-16 05:05:03|d700cfeddac3727eba2a297474d9adf4.virus|
 |[3c1085639bf9f028b96fc274fb5f242c](https://www.virustotal.com/gui/file/3c1085639bf9f028b96fc274fb5f242c)|Win64 DLL|Ursu|2019-09-23 07:39:29|dea2657bd76144c9e26ecc7a834519d08bf25919585380f7566275538db43b59.sample|
 |[2a3a4d6a217566cd39e9a4edf4178c5f](https://www.virustotal.com/gui/file/2a3a4d6a217566cd39e9a4edf4178c5f)|DOC|Valyria|2017-08-10 00:52:52|121.doc|
+|[538047feae9bb3de19ad0f7bdfda5a48](https://www.virustotal.com/gui/file/538047feae9bb3de19ad0f7bdfda5a48)|ZIP|Nemucod|2025-07-29 19:00:42|u.zip|
+|[39e435c522549f04f3367512c2429b2c](https://www.virustotal.com/gui/file/39e435c522549f04f3367512c2429b2c)|LNK||2025-07-29 18:56:12|3393ea|
+|[7672a9bf5a58e2c17925dbb759ea98ce](https://www.virustotal.com/gui/file/7672a9bf5a58e2c17925dbb759ea98ce)|LNK|Starter|2025-05-19 04:20:59|C:\Users\user\AppData\Local\Temp\nqnevvbw.ttn\WooriCard_20231108.html.lnk|
+|[676ddf398f9afbbc583057904579de21](https://www.virustotal.com/gui/file/676ddf398f9afbbc583057904579de21)|LNK|Starter|2025-05-06 13:17:04|/scratch/zoo/2025/05/08/676ddf398f9afbbc583057904579de21|
+|[80e1758c0d6dcf5de932226958ba3361](https://www.virustotal.com/gui/file/80e1758c0d6dcf5de932226958ba3361)|LNK||2025-04-28 10:14:27| |
+|[68a92a2df9d7be6e36bc3efa7d37cebc](https://www.virustotal.com/gui/file/68a92a2df9d7be6e36bc3efa7d37cebc)|ZIP||2025-04-28 10:07:55|pAv9FzMqFo3oaA0SMqKXFoK=|
+|[a799308b1397586bd9687b3b457aaf8a](https://www.virustotal.com/gui/file/a799308b1397586bd9687b3b457aaf8a)|ZIP||2025-04-11 04:48:01| |
+|[95289ac289db6ad1fd9175992f498cd3](https://www.virustotal.com/gui/file/95289ac289db6ad1fd9175992f498cd3)|LNK|Starter|2025-04-10 08:22:23|20250410_70404.xls.lnk|
+|[54f34d4c59c233a21c8d5391b2f8cdd3](https://www.virustotal.com/gui/file/54f34d4c59c233a21c8d5391b2f8cdd3)|LNK|Starter|2025-03-25 16:10:37|/scratch/zoo/2025/03/25/54f34d4c59c233a21c8d5391b2f8cdd3|
+|[14b46537179dbf2d83534839f73927ff](https://www.virustotal.com/gui/file/14b46537179dbf2d83534839f73927ff)|ZIP|sLoad|2025-03-24 07:11:49|Sm.dat|
+|[6da06e1e7b9e8e5eb9f199b0fbcf811a](https://www.virustotal.com/gui/file/6da06e1e7b9e8e5eb9f199b0fbcf811a)|LNK|Starter|2025-03-24 07:06:53|6fb3dfe451b37b0304a42e62759bf3670d5b4dd0232621dac0739061fa4704e2.lnk|
+|[47ad8d3dd6393224dc002ed4f7e8e07a](https://www.virustotal.com/gui/file/47ad8d3dd6393224dc002ed4f7e8e07a)|TXT||2025-02-28 09:11:01|C:\Users\Public\Documents\b9bf8b21d5eb4506ba9adf877c549eb1$dpx$.tmp\bbcb8e402a14ac43a0877bdd8fc84800.tmp|
+|[4ef2de43b6f2469004b6d23a4a95e877](https://www.virustotal.com/gui/file/4ef2de43b6f2469004b6d23a4a95e877)|TXT||2025-02-28 09:11:01|C:\Users\Public\Documents\b9bf8b21d5eb4506ba9adf877c549eb1$dpx$.tmp\45e4f9f42c1bc34e87127b972be625dc.tmp|
+|[93ae660107ab5101385d6328eabd2741](https://www.virustotal.com/gui/file/93ae660107ab5101385d6328eabd2741)|TXT||2025-02-28 09:10:59|C:\Users\Public\Documents\b9bf8b21d5eb4506ba9adf877c549eb1$dpx$.tmp\224afa47cf84a2428c9a54633528d269.tmp|
+|[b644aa4b73b7ed1815c0d49b43a5078b](https://www.virustotal.com/gui/file/b644aa4b73b7ed1815c0d49b43a5078b)|TXT||2025-02-28 09:10:59|C:\Users\Public\Documents\b9bf8b21d5eb4506ba9adf877c549eb1$dpx$.tmp\c2d463b831e1bd419dcd2ec470af0b97.tmp|
+|[8ecd816f7b3103f944859bce202aafdc](https://www.virustotal.com/gui/file/8ecd816f7b3103f944859bce202aafdc)|MS Word Document|o97m|2022-08-11 10:47:18|f3b62fea38cb44e15984d941445d24e6b309bc7b_sig_replaced|
+|[94bdb2343cb0fb9545075e3be3a92913](https://www.virustotal.com/gui/file/94bdb2343cb0fb9545075e3be3a92913)|Win32 EXE||2020-05-25 15:46:13|dttcodexgigas.f7d8be760716c22ad3df7099eb271fec390e3948|
+|[4572d7cd981b739ddef645b1efbd6ab0](https://www.virustotal.com/gui/file/4572d7cd981b739ddef645b1efbd6ab0)|Win64 DLL|Ursu|2020-04-14 02:50:14| |
+|[aafcfd1b9d7eb61ad961e189829796db](https://www.virustotal.com/gui/file/aafcfd1b9d7eb61ad961e189829796db)|Win64 DLL|Ursu|2020-01-16 10:59:25|c8f19c7c2622a5af3ee522369e6104cbc6bc2a2750709ada6fd7e0ceec737fb5.sample|
+|[1ee833a413308cbd2be316ad75a41c5c](https://www.virustotal.com/gui/file/1ee833a413308cbd2be316ad75a41c5c)|DOC|Valyria|2017-08-10 00:52:00|12.doc|

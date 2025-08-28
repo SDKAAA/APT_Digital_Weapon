@@ -849,3 +849,7 @@
 |[1e87e8c36443edc991fa5c6379b5428a](https://www.virustotal.com/gui/file/1e87e8c36443edc991fa5c6379b5428a)|Win32 DLL||2010-01-15 11:48:28| |
 |[a5c10b558524d23c6e3c2c7be9ede745](https://www.virustotal.com/gui/file/a5c10b558524d23c6e3c2c7be9ede745)|Win32 DLL||2009-10-30 04:16:28|30d06ef11fa3605154cdfeb43d38d96213974cb33600fca7ed18f0a6fe673823|
 |[04d52322e3d70c04f6707e7400872cdd](https://www.virustotal.com/gui/file/04d52322e3d70c04f6707e7400872cdd)|Win32 DLL||2009-08-19 01:47:15|VirusShare_04d52322e3d70c04f6707e7400872cdd|
+|[5c887a31fb4713e17c5dda9d78aab9fe](https://www.virustotal.com/gui/file/5c887a31fb4713e17c5dda9d78aab9fe)|Win32 EXE||2013-08-28 09:23:00|vti-rescan|
+|[b0fd4d5fb6d8acb1ccfb54d53c08f11f](https://www.virustotal.com/gui/file/b0fd4d5fb6d8acb1ccfb54d53c08f11f)|RTF|CVE-2010-3333|2013-06-21 13:19:22|b0fd4d5fb6d8acb1ccfb54d53c08f11f|
+|[5efc35315e87fdc67dada06fb700a8c7](https://www.virustotal.com/gui/file/5efc35315e87fdc67dada06fb700a8c7)|Win32 EXE||2013-05-24 14:00:42|vt-upload-EE9Za|
+|[525fd346b9511a84bbe26eb47b845d89](https://www.virustotal.com/gui/file/525fd346b9511a84bbe26eb47b845d89)|Win32 EXE||2012-12-04 09:23:42|t.txt|

@@ -29,3 +29,17 @@
 |[34c68108eb2e381112ae0dfaba0c80c3](https://www.virustotal.com/gui/file/34c68108eb2e381112ae0dfaba0c80c3)|HTML|sLoad|2024-11-14 09:13:32|316-1759-24.hta|
 |[e55118b29430970476d743c3993a143e](https://www.virustotal.com/gui/file/e55118b29430970476d743c3993a143e)|Win32 EXE||2024-11-14 09:09:36|316-1759-24.rar|
 |[b21d0df863af16c39348238409e8bd9d](https://www.virustotal.com/gui/file/b21d0df863af16c39348238409e8bd9d)|ZIP|sLoad|2024-11-14 09:09:16|316-1759-24.rar|
+|[059da876312f83c5d11aeb7035eb7feb](https://www.virustotal.com/gui/file/059da876312f83c5d11aeb7035eb7feb)|Win32 EXE||2025-07-31 07:45:07|_06564bd863c772ca700b2f4472538fbfa52b96bdaef20c2a1daa11a2a08d61fd.exe|
+|[300fa1ddbd0a11f59751b418e517d169](https://www.virustotal.com/gui/file/300fa1ddbd0a11f59751b418e517d169)|HTML||2025-07-22 19:34:36|756_840_25.hta|
+|[9a01d2e6e0a91f25a920d78ceeab7150](https://www.virustotal.com/gui/file/9a01d2e6e0a91f25a920d78ceeab7150)|TAR||2025-07-22 07:52:29|756_840_25.rar|
+|[35750cc292cf2f56fceb22dade3d8870](https://www.virustotal.com/gui/file/35750cc292cf2f56fceb22dade3d8870)|LNK||2025-06-19 15:24:58|Договір _2025.lnk|
+|[1fce3bc0680f1f33b4777aff0a83973c](https://www.virustotal.com/gui/file/1fce3bc0680f1f33b4777aff0a83973c)|ZIP||2025-06-19 15:20:01|Договір _2025.rar|
+|[0a27f32e1ed9b447280b9d6d7180c9e6](https://www.virustotal.com/gui/file/0a27f32e1ed9b447280b9d6d7180c9e6)|ZIP||2025-06-18 06:57:43|Повістка-367-124-25.rar|
+|[a04e7ff5224869fd0fa397768f286f92](https://www.virustotal.com/gui/file/a04e7ff5224869fd0fa397768f286f92)|TXT||2025-06-06 12:10:23|2.hta|
+|[4117ba23e07b239f83b52c839430e23e](https://www.virustotal.com/gui/file/4117ba23e07b239f83b52c839430e23e)|TXT||2025-06-06 12:06:31|1.hta|
+|[3f41b99fe4dda40d0b207061572de023](https://www.virustotal.com/gui/file/3f41b99fe4dda40d0b207061572de023)|Win32 EXE||2025-06-06 00:39:35|svchost.exe|
+|[118cbd35a8726cb25c7c155aa7012a2f](https://www.virustotal.com/gui/file/118cbd35a8726cb25c7c155aa7012a2f)|LNK||2025-06-06 00:39:34|_0DGJT5OFX/Лист на повернення предоплати.lnk|
+|[4bb22cffc195be3474c1750bccdbd6d7](https://www.virustotal.com/gui/file/4bb22cffc195be3474c1750bccdbd6d7)|ZIP||2025-06-06 00:29:31|_2102c2178000f8c63d01fd9199400885d1449501337c4f9f51b7e444aa6fbf50.zip|
+|[7601188581705cffeb3d3e40f946b3cb](https://www.virustotal.com/gui/file/7601188581705cffeb3d3e40f946b3cb)|HTML||2025-06-01 06:49:27|1401_6259180.hta|
+|[a35c95ea5be5413e891ce066519817c1](https://www.virustotal.com/gui/file/a35c95ea5be5413e891ce066519817c1)|TAR||2025-05-29 13:02:25|Повістка-467-1388-23.rar|
+|[a9ab01cdc0f26ba4c546d7e595fbe2b4](https://www.virustotal.com/gui/file/a9ab01cdc0f26ba4c546d7e595fbe2b4)|ZIP||2025-05-29 13:02:10|Повістка-467-1388-23.rar|

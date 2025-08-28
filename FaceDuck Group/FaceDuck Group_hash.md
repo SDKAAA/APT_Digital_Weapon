@@ -2480,3 +2480,8 @@
 |[92e56449663209c089b2fa281cedde56](https://www.virustotal.com/gui/file/92e56449663209c089b2fa281cedde56)|ZIP||2024-11-29 14:59:00|Development contract details (264).zip|
 |[4ef5f98b3133219e87b3cb2e6f9730a8](https://www.virustotal.com/gui/file/4ef5f98b3133219e87b3cb2e6f9730a8)|ZIP||2024-11-28 21:35:56|SMB_Neuron_JobInfo (897).zip|
 |[ab6cd3e8ce6d68ffab000d203eb53b35](https://www.virustotal.com/gui/file/ab6cd3e8ce6d68ffab000d203eb53b35)|RAR||2024-11-26 13:57:55|Advertising Specialist - Job Description (730).rar|
+|[b3e1e55fafa2b7d8e91510d0833c973c](https://www.virustotal.com/gui/file/b3e1e55fafa2b7d8e91510d0833c973c)|ZIP||2025-08-08 08:21:29|Detailed Description of the Harrods Project 2025 (414) (1).zip|
+|[91067aef4819b66a68eb3f45e928e2c7](https://www.virustotal.com/gui/file/91067aef4819b66a68eb3f45e928e2c7)|ZIP||2025-07-22 20:07:10|Digital_Ads_Manager_Role_and_Budget_Strategy_2025(A2) (134).zip|
+|[84b1a223014d30705bcecd3a77067adb](https://www.virustotal.com/gui/file/84b1a223014d30705bcecd3a77067adb)|ZIP||2025-07-18 20:59:09|Client_Strategy_Lead_Application_Pack (907) 2.zip|
+|[176d89fce36b7097df1120ea0fdab24d](https://www.virustotal.com/gui/file/176d89fce36b7097df1120ea0fdab24d)|Win32 EXE|Gatak|2025-07-11 07:26:10|c:\users\keecfmwgj\appdata\roaming\marriottjobdescriptioninfoopenroles.exe|
+|[4fae2d71dbeae18f1f423028ab4b99bc](https://www.virustotal.com/gui/file/4fae2d71dbeae18f1f423028ab4b99bc)|RAR||2025-05-15 09:34:57|184022|

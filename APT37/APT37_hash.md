@@ -155,3 +155,16 @@
 |[2fa8f5f95577db335e649d5361c845b0](https://www.virustotal.com/gui/file/2fa8f5f95577db335e649d5361c845b0)|LNK||2024-12-06 00:20:50|김국성강의자료.lnk|
 |[48be43c4ed4d921a3d83f7c7082f0102](https://www.virustotal.com/gui/file/48be43c4ed4d921a3d83f7c7082f0102)|TXT||2024-12-02 04:57:15|elephant.dat|
 |[936888d84b33f152d39ec539f5ce71aa](https://www.virustotal.com/gui/file/936888d84b33f152d39ec539f5ce71aa)|ZIP||2024-11-04 14:47:20|양식.zip|
+|[15d34af7f7bc23b305cfee87e3107f74](https://www.virustotal.com/gui/file/15d34af7f7bc23b305cfee87e3107f74)|LNK||2025-07-25 13:10:27|202507_998978.html.lnk|
+|[a6f90f98daa861efa299fb308b4fbaee](https://www.virustotal.com/gui/file/a6f90f98daa861efa299fb308b4fbaee)|RAR||2025-07-25 13:10:12|202507_998978.rar|
+|[443a00feeb3beaea02b2fbcd4302a3c9](https://www.virustotal.com/gui/file/443a00feeb3beaea02b2fbcd4302a3c9)|LNK||2025-07-20 12:59:29|_ccb6ca4cb385db50dad2e3b7c68a90ddee62398edb0fd41afdb793287cfbe8e6.lnk|
+|[64d729d0290e2c8ceaa6e38fa68e80e9](https://www.virustotal.com/gui/file/64d729d0290e2c8ceaa6e38fa68e80e9)|Win32 DLL|ROKRAT|2025-07-13 12:01:37|/scratch/zoo/2025/07/13/64d729d0290e2c8ceaa6e38fa68e80e9|
+|[5ed95cde6c29432a4f7dc48602f82734](https://www.virustotal.com/gui/file/5ed95cde6c29432a4f7dc48602f82734)|Win32 DLL|ROKRAT|2025-07-13 12:01:22|/scratch/zoo/2025/07/13/5ed95cde6c29432a4f7dc48602f82734|
+|[ae7e18a62abb7f93b657276dcae985b9](https://www.virustotal.com/gui/file/ae7e18a62abb7f93b657276dcae985b9)|Win32 DLL|ROKRAT|2025-07-13 01:00:36|/scratch/zoo/2025/07/13/ae7e18a62abb7f93b657276dcae985b9|
+|[16a8aaaf2e3125668e6bfb1705a065f9](https://www.virustotal.com/gui/file/16a8aaaf2e3125668e6bfb1705a065f9)|Win32 DLL|ROKRAT|2025-07-12 17:18:15|C:\Users\user\AppData\Local\version1.0.tmp|
+|[29437c24f8f946a3cb44d6dfd61791f7](https://www.virustotal.com/gui/file/29437c24f8f946a3cb44d6dfd61791f7)|LNK||2025-07-08 07:16:40|202507_3934823.html.lnk|
+|[7967156e138a66f3ee1bfce81836d8d0](https://www.virustotal.com/gui/file/7967156e138a66f3ee1bfce81836d8d0)|Win64 EXE||2025-06-26 04:31:48|C:\Users\user\AppData\Local\Temp\0sj232nm.tgp\3HNoWZd.exe|
+|[8d7618b81828fa378b2f0c2d8eaa5f52](https://www.virustotal.com/gui/file/8d7618b81828fa378b2f0c2d8eaa5f52)|LNK||2025-04-24 16:14:04|/scratch/zoo/2025/04/24/8d7618b81828fa378b2f0c2d8eaa5f52|
+|[46ca088d5c052738d42bbd6231cc0ed5](https://www.virustotal.com/gui/file/46ca088d5c052738d42bbd6231cc0ed5)|TXT||2025-03-25 16:49:13|C:\Users\user\AppData\Local\Temp\toy02.dat|
+|[723f80d1843315717bc56e9e58e89be5](https://www.virustotal.com/gui/file/723f80d1843315717bc56e9e58e89be5)|TXT||2025-03-25 16:49:13|C:\Users\user\AppData\Local\Temp\toy03.bat|
+|[2f431c4e65af9908d2182c6a093bf262](https://www.virustotal.com/gui/file/2f431c4e65af9908d2182c6a093bf262)|LNK||2025-03-25 16:43:35|250513-lmvyashj7y|
